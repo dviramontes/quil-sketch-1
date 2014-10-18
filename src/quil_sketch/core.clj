@@ -3,7 +3,7 @@
   (:require [quil-sketch.dynamic :as dynamic]))
 
 (q/defsketch example                
-  :title "Oh so many grey circles"
+  :title "..."
   :setup dynamic/setup           
   :draw dynamic/draw              
   :size [700 300])                
